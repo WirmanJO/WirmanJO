@@ -3,7 +3,7 @@
 <h3 align="center">EN: I'm a tester with an experience on the real projects.</h3>
 <h3 align="left">ABOUT ME:</h3>
 <h4 align="left">EN: My name is Moisyev Islam. I am from Uzbekistan. I am a tester with half of a year of expierence helping testing web and desktop apps with a different problems. Specializing in mobile testing, desktop app testing, API testing, test designe, write test documentation and etc. I use this experience to make the IT business less expensive in terms of application development.</h3>
-<h4 align="left">RU: Меня зовут Моисеев Ислам. Я из Узбекистана. Я тестировщик с полугодовым опытом, помогаю тестировать веб и десктопные приложения с разными проблемами. Специализируюсь на мобильном тестировании, тестировании настольных приложений, тестировании API, дизайне тестов, написании тестовой документации и т. д. Я использую этот опыт, чтобы сделать ИТ-бизнес менее затратным с точки зрения разработки приложений.</h3>
+<h4 align="left">RU: Меня зовут Моисеев Ислам. Я из Узбекистана. Я тестировщик с полугодовым опытом, помогаю тестировать веб и десктопные приложения с разными проблемами. Специализируюсь на мобильном тестировании, тестировании десктопных приложений, тестировании API, дизайне тестов, написании тестовой документации и т. д. Я использую этот опыт, чтобы сделать ИТ-бизнес менее затратным с точки зрения разработки приложений.</h3>
 <h3 align="left">Portfolio:</h3>
 <p><a href="https://github.com/WirmanJO/WirmanJO/blob/main/Practicum/Fifth/main_project.xlsx">Тестирование веб приложения, мобильного приложения, работа с БД и API</a></p>
 <ul><li><p><a href="https://github.com/WirmanJO/WirmanJO/blob/main/Practicum/Application%20and%20requirement/requirements_backend.pdf">Требования к бэкэнду</a></p></li>
