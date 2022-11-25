@@ -11,7 +11,7 @@
 <li><p><a href="https://github.com/WirmanJO/WirmanJO/blob/main/Practicum/Application%20and%20requirement/wed.pdf">Требования к веб-приложению</a></p></li>
 <li><p><a href="https://github.com/WirmanJO/WirmanJO/blob/main/Practicum/Application%20and%20requirement/Ya..drawio.png">Mindmap</a></p></li>
 <li><p><a href="https://github.com/WirmanJO/WirmanJO/blob/main/Practicum/Second/Test_web_app.xlsx">Тестирование веб приложения</a></p></li></ul>
-<p><a href="https://github.com/WirmanJO/WirmanJO/blob/main/Practicum/First/%D0%9C%D0%BE%D0%B8%D1%81%D0%B5%D0%B5%D0%B2_%D0%98%D1%81%D0%BB%D0%B0%D0%BC_43_1_%D1%8F_%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%B0_%E2%80%94_1_%D0%B9_%D1%81%D0%BF%D1%80%D0%B8%D0%BD%D1%82.xlsx">Визуализация требований и техники тест дизайна</a></p>
+<p><a href="https://github.com/WirmanJO/WirmanJO/blob/main/Practicum/First/Visual_req.xlsx">Визуализация требований и техники тест дизайна</a></p>
 <p><a href="https://github.com/WirmanJO/WirmanJO/blob/main/Practicum/First/%D0%91%D0%BB%D0%BE%D0%BA%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0.pdf">Блок-схема</a></p>
 <p><a href="https://github.com/WirmanJO/WirmanJO/blob/main/Practicum/First/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0.pdf">Диаграмма</a></p>
 <p><a href="https://github.com/WirmanJO/WirmanJO/blob/main/Practicum/Third/Test_mob_api.xlsx">Тестирование мобильного приложения и API</a></p>
